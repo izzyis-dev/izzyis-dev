@@ -1,6 +1,6 @@
 ## Hey Everyone! 👋
 
-I am currently a student at VCU pursuing a bachelor's degree in Computer Science and a minor in AI. The main language I use (and currently enjoy the most) is Java!
+I am currently a student pursuing a bachelor's degree in Computer Science and a minor in AI. The main language I use (and currently enjoy the most) is Java!
 
 When I am not coding I usually watch YouTube videos, playing video games, or doing niche activities that I find enjoyable.
 
