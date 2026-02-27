@@ -1,11 +1,13 @@
 ## Hey Everyone! 👋
 
-I am currently a student pursuing a bachelor's degree in Computer Science and a minor in AI. The main language I use (and currently enjoy the most) is Java!
+I am currently a VCU college student pursuing a bachelor's degree in Computer Science and a minor in AI. The main languages I use (and currently enjoy the most) is Java and C#!
 
-When I am not coding I usually watch YouTube videos, playing video games, or doing niche activities that I find enjoyable.
+When I am not coding I usually watch YouTube videos, play video games, or browse the web for topics that I find interesting.
 
-## Projects ☕
-Here is are the current projects that I am working on:
+## Projects 📦
+Here is are the current projects that I have worked on:
+- ???
+  - A special project that will be revealed soon!
 - [Oranges!](https://www.curseforge.com/minecraft/mc-mods/oranges-and-more)
   - Oranges is a Minecraft Mod that adds Oranges to Minecraft, as the name suggests. It has over 150 downloads across differnet Minecraft mod downloading websites! It was one of my first projects and I am really proud of it.
 - [Colorful Leaves!](https://www.curseforge.com/minecraft/mc-mods/colorful-leaves)
