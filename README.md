@@ -5,7 +5,7 @@ I am currently a VCU college student pursuing a bachelor's degree in Computer Sc
 When I am not coding I usually watch YouTube videos, play video games, or browse the web for topics that I find interesting.
 
 ## Projects 📦
-Here is are the current projects that I have worked on:
+Here are the current projects that I have worked on:
 - ???
   - A special project that will be revealed soon!
 - [Oranges!](https://www.curseforge.com/minecraft/mc-mods/oranges-and-more)
